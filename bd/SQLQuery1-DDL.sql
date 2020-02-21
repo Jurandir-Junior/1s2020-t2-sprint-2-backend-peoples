@@ -8,3 +8,8 @@ CREATE TABLE Funcionarios (
 	SobrenomeFuncionario VARCHAR (255)
 );
 
+ALTER TABLE Funcionarios
+ADD DataNascimento DATE 
+
+ALTER TABLE Funcionarios
+ALTER COLUMN NomeFuncionario VARCHAR (255) NOT NULL

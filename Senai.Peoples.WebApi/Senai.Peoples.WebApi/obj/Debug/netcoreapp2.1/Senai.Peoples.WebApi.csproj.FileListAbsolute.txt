@@ -1,0 +1,28 @@
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.deps.json
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.runtimeconfig.json
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.runtimeconfig.dev.json
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.dll
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.csprojAssemblyReference.cache
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.RazorAssemblyInfo.cache
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.RazorAssemblyInfo.cs
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.AssemblyInfoInputs.cache
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.AssemblyInfo.cs
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.pdb
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.dll
+C:\Users\51855643855\source\repos\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.pdb
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.csprojAssemblyReference.cache
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.RazorAssemblyInfo.cache
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.RazorAssemblyInfo.cs
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.AssemblyInfoInputs.cache
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.AssemblyInfo.cs
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.dll
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.pdb
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.deps.json
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.runtimeconfig.json
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.runtimeconfig.dev.json
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.dll
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\netcoreapp2.1\Senai.Peoples.WebApi.pdb
+C:\Users\51855643855\Documents\SQL Server Management Studio\SQL\Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\netcoreapp2.1\Senai.Peoples.WebApi.RazorTargetAssemblyInfo.cache
