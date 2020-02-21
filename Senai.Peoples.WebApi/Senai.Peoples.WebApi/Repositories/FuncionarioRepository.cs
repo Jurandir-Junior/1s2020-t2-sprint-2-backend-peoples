@@ -56,13 +56,52 @@ namespace Senai.Peoples.WebApi.Repositories
 
                             NomeFuncionario = rdr["NomeFuncionario"].ToString(),
 
-                            SobrenomeFuncionario = rdr["SobrenomeFuncionario"].ToString()
+                            SobrenomeFuncionario = rdr["SobrenomeFuncionario"].ToString(),
+
+                            DataNascimento = Convert.ToDateTime(rdr["DataNascimento"])
                         };
                         return funcionario;
                     }
                     return null;
                 }
             }
+        }
+
+        public FuncionarioDomain BuscarPorNome(string nome)
+        {
+            using (SqlConnection con = new SqlConnection(stringConexao))
+            {
+                string querySelectByName = "SELECT IdFuncionario, NomeFuncionario, SobrenomeFuncionario, DataNascimento FROM Funcionarios WHERE NomeFuncionario = @NomeFuncionario";
+
+                con.Open();
+
+                SqlDataReader rdr;
+
+                using (SqlCommand cmd = new SqlCommand(querySelectByName, con))
+                {
+                    cmd.Parameters.AddWithValue("@NomeFuncionario", nome);
+
+                    rdr = cmd.ExecuteReader();
+
+                    if (rdr.Read())
+                    {
+                        FuncionarioDomain funcionario = new FuncionarioDomain
+                        {
+                            IdFuncionario = Convert.ToInt32(rdr[0]),
+
+                            NomeFuncionario = rdr["NomeFuncionario"].ToString(),
+
+                            SobrenomeFuncionario = rdr["SobrenomeFuncionario"].ToString(),
+
+                            DataNascimento = Convert.ToDateTime(rdr["DataNascimento"])
+                        };
+                        return funcionario;
+                    }
+                    return null;
+                }
+            }
+
+
         }
 
         public void Cadastrar(FuncionarioDomain funcionario)

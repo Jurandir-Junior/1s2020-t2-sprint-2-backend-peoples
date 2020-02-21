@@ -17,5 +17,7 @@ namespace Senai.Peoples.WebApi.Interfaces
         FuncionarioDomain BuscarPorId(int id);
 
         void AtualizarIdUrl(int id, FuncionarioDomain funcionario);
+
+        FuncionarioDomain BuscarPorNome(string nome);
     }
 }

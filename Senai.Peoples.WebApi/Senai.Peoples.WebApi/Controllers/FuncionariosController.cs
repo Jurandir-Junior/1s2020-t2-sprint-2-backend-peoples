@@ -56,6 +56,18 @@ namespace Senai.Peoples.WebApi.Controllers
             return Ok(funcionarioBuscado);
         }
 
+        [HttpGet("Buscar/{nome}")]
+        public IActionResult GetByName(string nome)
+        {
+            FuncionarioDomain funcionarioBuscado = _funcionarioRepository.BuscarPorNome(nome);
+
+            if (funcionarioBuscado == null)
+            {
+                return NotFound("Funcionario não encontrado");
+            }
+            return Ok(funcionarioBuscado);
+        }
+
         [HttpPut("{id}")]
         public IActionResult PutIdUrl(int id, FuncionarioDomain funcionarioAtualizado)
         {
